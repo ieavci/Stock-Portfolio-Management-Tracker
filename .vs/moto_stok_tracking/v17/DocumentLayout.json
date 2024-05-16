@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D37E84-AD43-4517-9BBB-1966A29305EE}|moto_stok_tracking\\moto_stok_tracking.csproj|c:\\users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D37E84-AD43-4517-9BBB-1966A29305EE}|moto_stok_tracking\\moto_stok_tracking.csproj|solutionrelative:moto_stok_tracking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D37E84-AD43-4517-9BBB-1966A29305EE}|moto_stok_tracking\\moto_stok_tracking.csproj|C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D37E84-AD43-4517-9BBB-1966A29305EE}|moto_stok_tracking\\moto_stok_tracking.csproj|solutionrelative:moto_stok_tracking\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D37E84-AD43-4517-9BBB-1966A29305EE}|moto_stok_tracking\\moto_stok_tracking.csproj|C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\views\\satis\\hepsinisatinal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D37E84-AD43-4517-9BBB-1966A29305EE}|moto_stok_tracking\\moto_stok_tracking.csproj|solutionrelative:moto_stok_tracking\\views\\satis\\hepsinisatinal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D37E84-AD43-4517-9BBB-1966A29305EE}|moto_stok_tracking\\moto_stok_tracking.csproj|C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\controllers\\satiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D37E84-AD43-4517-9BBB-1966A29305EE}|moto_stok_tracking\\moto_stok_tracking.csproj|solutionrelative:moto_stok_tracking\\controllers\\satiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D37E84-AD43-4517-9BBB-1966A29305EE}|moto_stok_tracking\\moto_stok_tracking.csproj|C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\views\\sepet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D37E84-AD43-4517-9BBB-1966A29305EE}|moto_stok_tracking\\moto_stok_tracking.csproj|solutionrelative:moto_stok_tracking\\views\\sepet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D37E84-AD43-4517-9BBB-1966A29305EE}|moto_stok_tracking\\moto_stok_tracking.csproj|C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\views\\satis\\satinal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6D37E84-AD43-4517-9BBB-1966A29305EE}|moto_stok_tracking\\moto_stok_tracking.csproj|solutionrelative:moto_stok_tracking\\views\\satis\\satinal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "moto_stok_tracking\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "moto_stok_tracking\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:39:30.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HepsiniSatinAl.cshtml",
+              "DocumentMoniker": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\Views\\Satis\\HepsiniSatinAl.cshtml",
+              "RelativeDocumentMoniker": "moto_stok_tracking\\Views\\Satis\\HepsiniSatinAl.cshtml",
+              "ToolTip": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\Views\\Satis\\HepsiniSatinAl.cshtml",
+              "RelativeToolTip": "moto_stok_tracking\\Views\\Satis\\HepsiniSatinAl.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:45:31.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SatisController.cs",
+              "DocumentMoniker": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\Controllers\\SatisController.cs",
+              "RelativeDocumentMoniker": "moto_stok_tracking\\Controllers\\SatisController.cs",
+              "ToolTip": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\Controllers\\SatisController.cs",
+              "RelativeToolTip": "moto_stok_tracking\\Controllers\\SatisController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAawCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:21:27.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\Views\\Sepet\\Index.cshtml",
+              "RelativeDocumentMoniker": "moto_stok_tracking\\Views\\Sepet\\Index.cshtml",
+              "ToolTip": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\Views\\Sepet\\Index.cshtml",
+              "RelativeToolTip": "moto_stok_tracking\\Views\\Sepet\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:13:28.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "moto_stok_tracking\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "moto_stok_tracking\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:11:29.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SatinAl.cshtml",
+              "DocumentMoniker": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\Views\\Satis\\SatinAl.cshtml",
+              "RelativeDocumentMoniker": "moto_stok_tracking\\Views\\Satis\\SatinAl.cshtml",
+              "ToolTip": "C:\\Users\\iavcc\\source\\repos\\moto_stok_tracking\\moto_stok_tracking\\Views\\Satis\\SatinAl.cshtml",
+              "RelativeToolTip": "moto_stok_tracking\\Views\\Satis\\SatinAl.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T12:58:20.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
